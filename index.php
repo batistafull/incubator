@@ -1,5 +1,5 @@
 <?php
 
-echo json_encode(["status"=>"ok"]);
+echo "Hello World!";
 
 ?>
